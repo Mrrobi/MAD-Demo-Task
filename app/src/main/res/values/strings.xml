@@ -4,4 +4,6 @@
     <string name="title_activity_splash">splash</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">Thermometer\nDemo</string>
+    <string name="title_activity_cvsf">cvsf</string>
+    <string name="action_settings">Settings</string>
 </resources>
